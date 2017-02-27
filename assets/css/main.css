@@ -2516,29 +2516,6 @@
 			position: relative;
 			display: inline-block;
 		}
-
-		.spotlight .image3 {
-			-moz-order: 1;
-			-webkit-order: 1;
-			-ms-order: 1;
-			order: 1;
-			border-radius: 0;
-			width: 40%;
-			position: relative;
-			display: inline-block;
-		}
-
-		.spotlight .image4 {
-			-moz-order: 1;
-			-webkit-order: 1;
-			-ms-order: 1;
-			order: 1;
-			border-radius: 0;
-			width: 40%;
-			position: relative;
-			display: inline-block;
-		}
-
 		.spotlight .image.fit {
 			display: block;
 			width: 100%;
@@ -2549,18 +2526,7 @@
 			width: 100%;
 		}
 
-		.spotlight .image3.fit {
-			display: block;
-			width: 100%;
-		}
-
-		.spotlight .image4.fit {
-			display: block;
-			width: 100%;
-		}
-
-
-			/* THIS IS THE PROGRAMMING LANGUAGES IN SKILLS PICTURE */
+		/* THIS IS THE PROGRAMMING LANGUAGES IN SKILLS PICTURE */
 			.spotlight .image img {
 				border-radius: 0;
 				max-width: 104%;
@@ -2573,23 +2539,7 @@
 				max-width: 100%;
 				height: auto;
 			}
-			/* THIS IS THE RIGHT PROGRAMMING LANGUAGES IN PROJECTS PICTURE */
-			.spotlight .image3 img {
-				position: absolute;
-				right: 0px;
-				border-radius: 0;
-				max-width: 100%;
-				height: auto;
-			}
-			/* THIS IS THE LEFT PROGRAMMING LANGUAGES IN PROJECTS PICTURE */
-			.spotlight .image4 img {
-				position: absolute;
-				left: 0px;
-				border-radius: 0;
-				max-width: 100%;
-				height: auto;
-			}
-
+			
 		.spotlight .content {
 			padding: 2em 4em 0.1em 4em ;
 			-moz-order: 2;
@@ -2657,14 +2607,6 @@
 				width: 100%;
 			}
 
-			.spotlight .image3 {
-				width: 100%;
-			}
-
-			.spotlight .content {
-				width: 55%;
-			}
-
 		}
 
 		@media screen and (max-width: 980px) {
@@ -2682,10 +2624,6 @@
 				}
 
 				.spotlight .image2 {
-					width: 150%;
-				}
-
-				.spotlight .image3 {
 					width: 150%;
 				}
 
