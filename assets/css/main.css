@@ -2530,14 +2530,14 @@
 			.spotlight .image img {
 				border-radius: 0;
 				max-width: 104%;
-				height: auto;
+				max-height: 104%;
 			}
 			/* THIS IS THE PFARS PICTURE */
 			.spotlight .image2 img {
 				right: 0px;
 				border-radius: 0;
 				max-width: 100%;
-				height: auto;
+				max-height: 100%;
 			}
 			
 		.spotlight .content {
@@ -2620,11 +2620,11 @@
 				}
 
 				.spotlight .image {
-					width: 150%;
+					width: 100%;
 				}
 
 				.spotlight .image2 {
-					width: 150%;
+					width: 100%;
 				}
 
 				.spotlight .content {
@@ -3668,10 +3668,10 @@
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: url("../../images/bg1.jpg");
-		background-image: url("../../images/bg1.jpg");
-		background-image: url("../../images/bg1.jpg");
-		background-image: url("../../images/bg1.jpg");
+		background-image: url("../../images/bg2.jpg");
+		background-image: url("../../images/bg2.jpg");
+		background-image: url("../../images/bg2.jpg");
+		background-image: url("../../images/bg2.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3739,7 +3739,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		padding: 1em 0 1em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
