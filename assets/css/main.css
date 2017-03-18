@@ -3837,10 +3837,10 @@
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3858,10 +3858,10 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
-		background-image: url("../../images/bghomefootball.jpg");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
+		background-image: url("../../images/bg1.JPG");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
